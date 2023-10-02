@@ -1,5 +1,5 @@
 # assembly-language-study
-ToyCOM 어셈블리어로 별 찍기 프로그램을 만들어 봤습니다.
+Toy프로세서 어셈블리어로 별 찍기 프로그램을 만들어 봤습니다.
 ## 이전
 ![before](https://github.com/anseonghyeon/assembly-language-study/assets/62938167/47f6437b-70c8-4573-9d93-249f30515209)
 ## 이후
