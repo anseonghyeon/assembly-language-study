@@ -1,19 +1,7 @@
 # assembly-language-study
 Toy프로세서 어셈블리어로 별 찍기 프로그램을 만들어 봤습니다.
-## 이전
-![before](https://github.com/anseonghyeon/assembly-language-study/assets/62938167/47f6437b-70c8-4573-9d93-249f30515209)
-## 이후
-![after](https://github.com/anseonghyeon/assembly-language-study/assets/62938167/fe43e412-5313-41ef-9c97-f023fe68e2d3)
-## 출력결과
-![result2](https://github.com/anseonghyeon/assembly-language-study/assets/62938167/fa41f643-71fa-4990-9375-e5d52918f8cc)
-
 
 # 어셈블리어로 별 찍기를 해보자
-
-**202112631**  
-**안성현**  
-**2023-09-30**
-
 ---
 
 ## 📌 프로그램 개요 설명
@@ -23,12 +11,14 @@ Toy프로세서 어셈블리어로 별 찍기 프로그램을 만들어 봤습�
 ---
 
 ## 🧾 프로그램 내용 및 설명 (.s 파일)
+
 ![image](https://github.com/user-attachments/assets/c0449459-9554-4287-a19e-b7b4e41081de)
 
 사용자의 입력 값을 높이로 하는 삼각형을 출력하는 어셈블리어 프로그램입니다.  
 입력은 1부터 9까지의 수만 가능합니다.
 
 🧮 어셈블러 출력 및 설명 (.lst 파일)
+
 ![image](https://github.com/user-attachments/assets/d992724d-14bc-40e3-b1d5-e49471c8162d)
 
 프로그램 시작 주소: 0x002000
@@ -44,6 +34,7 @@ inner_loop: 0x002006
 명령어 해석은 위의 .s 파일 설명과 동일합니다.
 
 🖼 기계어 프로그램 간단 설명 (시뮬레이터 실행 초기 화면)
+
 ![image](https://github.com/user-attachments/assets/d757a24d-fbfa-4d90-8f85-578f13af904e)
 
 프로그램 이름: star
@@ -57,6 +48,7 @@ PC(Program Counter): 첫 번째 명령어 주소
 CCR(Condition Code Register): 초기값 0
 
 🔄 프로그램 실행 과정 및 설명
+
 ![image](https://github.com/user-attachments/assets/9cdd249b-3108-45e2-8baf-49c249da69e2)
 
 문자 입력 → 숫자 변환 과정
@@ -68,9 +60,11 @@ CCR(Condition Code Register): 초기값 0
 
 ✅ 실행 결과 검증
 입력값 5 → 5층 삼각형 출력
+
 ![image](https://github.com/user-attachments/assets/5053f553-9f54-4776-a942-69e4c2cafad1)
 
 입력값 9 → 9층 삼각형 출력
+
 ![image](https://github.com/user-attachments/assets/b80c6df2-ff04-49f8-b216-c963cbea34f7)
 
 💡 요약 및 결론
