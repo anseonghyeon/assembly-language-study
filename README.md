@@ -7,4 +7,3 @@ Toy프로세서 어셈블리어로 별 찍기 프로그램을 만들어 봤습�
 ## 출력결과
 ![result2](https://github.com/anseonghyeon/assembly-language-study/assets/62938167/fa41f643-71fa-4990-9375-e5d52918f8cc)
 
-![image](https://github.com/user-attachments/assets/36fc5ed0-ac70-4f1b-a2ac-82706a557ed2)
