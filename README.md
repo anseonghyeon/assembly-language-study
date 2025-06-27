@@ -1,4 +1,4 @@
-# assembly-language-study
+# assembly-star
 Toy프로세서 어셈블리어로 별 찍기 프로그램을 만들어 봤습니다.
 
 # 어셈블리어로 별 찍기를 해보자
